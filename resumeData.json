@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name":"David Prieto",
+    "occupation":"Web developer",
+    "description":"I 💚 everything related to web technologies and hardware integrations, state of the art projects focused on social and environmental changes! What's our next project? 🔥",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "dprietoc@gmail.com",
+    "phone": "+54 9 11 5425 5124",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Buenos Aires",
+      "state":"CABA",
+      "zip": "1424"
+    },
+    "website": "https://www.davidprieto.com.ar",
+    "resumedownload":"https://www.davidprieto.com.ar/resume",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/david-prieto-cornejo-6161584b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/davidprieto.ph",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/dprietoc",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"BBVA Homebanking",
+        "category":"BBVA homebanking for Argentinian operations",
+        "image":"bbva-web.png",
+        "url":"https://www.bbva.com.ar/"
+      },
+      {
+        "title":"P12 MPP",
+        "category":"Membership project for P12 Newspaper",
+        "image":"p12-web.png",
+        "url":"https://www.pagina12.com.ar"
+      },
+      {
+        "title":"Lume Producciones",
+        "category":"Cultural and artistic Argentinian-gaelic agency",
+        "image":"lume-web.png",
+        "url":"https://www.lume.com.ar"
+      },
+      {
+        "title":"Ollas Populares",
+        "category":"Social web app for finding food donations in COVID times",
+        "image":"proximamente.png",
+        "url":"https://www.ollaspop.com.ar"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That David Prieto must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
