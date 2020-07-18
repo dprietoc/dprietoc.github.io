@@ -34,7 +34,7 @@
       },
       {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"https://skype.com",
         "className":"fa fa-skype"
       }
     ]
